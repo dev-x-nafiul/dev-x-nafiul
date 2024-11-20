@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Js,Nodejs,PHP,my sql**
 
-- 💬 Ask me about **Html,Css,Photoshop,Canva,Illustrator,Bootstrap**
+- 💬 Ask me about **Html,Css,Bootstrap,Photoshop,Canva,Illustrator**
 
 - 📫 How to reach me **nafiulhaque43@gmail.com**
 
